@@ -2,6 +2,7 @@
 > Client OAuth 1.0a Request Authorization for Node
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Build Status](https://semaphoreci.com/api/v1/projects/90d69510-17be-4d6a-9fb7-8fdd8b04fb58/617490/badge.svg)](https://semaphoreci.com/omher/oauthclient)
 [![Dependency Status](https://david-dm.org/OmerHerera/oauthclient.svg?theme=shields.io)](https://david-dm.org/OmerHerera/oauthclient)
 [![devDependency Status](https://david-dm.org/OmerHerera/oauthclient/dev-status.svg?theme=shields.io)](https://david-dm.org/OmerHerera/oauthclient#info=devDependencies)
 [![npm version](https://badge.fury.io/js/oauthclients.svg)](http://badge.fury.io/js/oauthclients)
