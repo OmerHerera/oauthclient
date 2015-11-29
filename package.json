@@ -1,0 +1,35 @@
+{
+  "name": "oauthclient",
+  "version": "1.0.0",
+  "description": "module using oauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "oauth"
+  ],
+  "author": "omher",
+  "license": "ISC",
+  "dependencies": {
+    "oauth-1.0a": "~1.0.1",
+    "object-assign": "~4.0.1",
+    "request": "~2.67.0"
+  },
+  "devDependencies": {
+    "chai": "~3.4.1",
+    "grunt": "~0.4.5",
+    "grunt-available-tasks": "~0.6.1",
+    "grunt-env": "~0.4.4",
+    "grunt-istanbul": "~0.6.1",
+    "grunt-mocha": "~0.4.13",
+    "grunt-mocha-test": "~0.12.7",
+    "load-grunt-config": "~0.19.0",
+    "mocha": "~2.3.4",
+    "time-grunt": "~1.2.2"
+  },
+  "engines": {
+    "node": ">=0.12.6",
+    "npm": ">=1.4"
+  }
+}
