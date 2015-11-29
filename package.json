@@ -1,6 +1,6 @@
 {
   "name": "oauthclient",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "module using oauth",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,8 @@
     "oauth", "oauth1.0", "secuirity", "node", "node.js", "request", "client"
   ],
   "author": "omher",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": "https://github.com/OmerHerera/oauthclient.git",
   "dependencies": {
     "oauth-1.0a": "~1.0.1",
     "object-assign": "~4.0.1",
