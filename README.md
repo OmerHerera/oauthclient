@@ -5,9 +5,9 @@
 [![Build Status](https://semaphoreci.com/api/v1/projects/90d69510-17be-4d6a-9fb7-8fdd8b04fb58/617490/badge.svg)](https://semaphoreci.com/omher/oauthclient)
 [![Dependency Status](https://david-dm.org/OmerHerera/oauthclient.svg?theme=shields.io)](https://david-dm.org/OmerHerera/oauthclient)
 [![devDependency Status](https://david-dm.org/OmerHerera/oauthclient/dev-status.svg?theme=shields.io)](https://david-dm.org/OmerHerera/oauthclient#info=devDependencies)
-[![npm version](https://badge.fury.io/js/oauthclients.svg)](http://badge.fury.io/js/oauthclients)
-[![npm downloads](https://img.shields.io/npm/dm/oauthclients.svg)](https://img.shields.io/npm/dm/oauthclients.svg)
-[![NPM](https://nodei.co/npm/oauthclients.png)](https://nodei.co/npm/oauthclients/)
+[![npm version](https://badge.fury.io/js/oauthclient.svg)](http://badge.fury.io/js/oauthclient)
+[![npm downloads](https://img.shields.io/npm/dm/oauthclient.svg)](https://img.shields.io/npm/dm/oauthclient.svg)
+[![NPM](https://nodei.co/npm/oauthclient.png)](https://nodei.co/npm/oauthclient/)
 
 
 ### Example
