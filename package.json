@@ -1,13 +1,19 @@
 {
   "name": "oauthclient",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "module using oauth",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "grunt default --verbose"
   },
   "keywords": [
-    "oauth", "oauth1.0", "secuirity", "node", "node.js", "request", "client"
+    "oauth",
+    "oauth1.0",
+    "secuirity",
+    "node",
+    "node.js",
+    "request",
+    "client"
   ],
   "author": "omher",
   "license": "MIT",
@@ -21,12 +27,12 @@
     "chai": "~3.4.1",
     "grunt": "~0.4.5",
     "grunt-available-tasks": "~0.6.1",
+    "grunt-contrib-clean": "~0.7.0",
     "grunt-env": "~0.4.4",
     "grunt-istanbul": "~0.6.1",
     "grunt-mocha": "~0.4.13",
     "grunt-mocha-test": "~0.12.7",
     "load-grunt-config": "~0.19.0",
-    "mocha": "~2.3.4",
     "time-grunt": "~1.2.2"
   },
   "engines": {
